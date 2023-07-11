@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48960267437",
+    "project_id": "practicefirebase-ccb59",
+    "storage_bucket": "practicefirebase-ccb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48960267437:android:ad185e435aecb0c57cd224",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48960267437-ptntsotekvjtkb4brm6lcqmc2pkfa9om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHy38UEDA_k3SoHTgwQKPRDGr54UeTAGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48960267437-ptntsotekvjtkb4brm6lcqmc2pkfa9om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
